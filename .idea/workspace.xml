@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="37bd779d-4424-4c96-a79f-cac2f0123d66" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="deploy.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/deploy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CryptoRam.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/CryptoRam.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hardhat.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hardhat.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initBlockchain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/src/utils/initBlockchain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="72" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ram.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/src/components/ram.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-159">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchaserInventory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/src/components/PurchaserInventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buySold.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DappClient/src/components/buySold.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web3</find>
+      <find>symbol</find>
+      <find>instance</find>
+      <find>purchaser</find>
+      <find>getRam</find>
+      <find>networks</find>
+      <find>netw</find>
+      <find>network</find>
+      <find>purchaserAddress</find>
+      <find>net</find>
+      <find>exist</find>
+      <find>ramTable</find>
+      <find>console.log</find>
+      <find>boink</find>
+      <find>boin</find>
+      <find>owner</find>
+      <find>cosole</find>
+      <find>Col</find>
+      <find>console</find>
+      <find>accounts</find>
+      <find>minter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/client/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/client/public/index.html" />
+        <option value="$PROJECT_DIR$/client/src/BuyOrSold.js" />
+        <option value="$PROJECT_DIR$/client/src/header.js" />
+        <option value="$PROJECT_DIR$/client/src/instantiateContracts.js" />
+        <option value="$PROJECT_DIR$/client/src/rainbow.js" />
+        <option value="$PROJECT_DIR$/client/src/ramNames.js" />
+        <option value="$PROJECT_DIR$/client/src/ramPrice.js" />
+        <option value="$PROJECT_DIR$/client/src/buySold.js" />
+        <option value="$PROJECT_DIR$/client/src/getWeb3.js" />
+        <option value="$PROJECT_DIR$/client/src/someComponent.js" />
+        <option value="$PROJECT_DIR$/client/src/index.js" />
+        <option value="$PROJECT_DIR$/client/src/utils/web3.js" />
+        <option value="$PROJECT_DIR$/client/src/utils/getweb3.js" />
+        <option value="$PROJECT_DIR$/client/src/helpers/rainbow.js" />
+        <option value="$PROJECT_DIR$/client/src/helpers/ramNames.js" />
+        <option value="$PROJECT_DIR$/client/src/ram.js" />
+        <option value="$PROJECT_DIR$/client/src/components/accountInventory.js" />
+        <option value="$PROJECT_DIR$/client/src/helpers/ramPrice.js" />
+        <option value="$PROJECT_DIR$/client/src/components/ram.js" />
+        <option value="$PROJECT_DIR$/client/src/contracts/CryptoRam.json" />
+        <option value="$PROJECT_DIR$/client/src/utils/getWeb3.js" />
+        <option value="$PROJECT_DIR$/client/src/components/PurchaserInventory.js" />
+        <option value="$PROJECT_DIR$/client/src/components/buySold.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/client/src/App.js" />
+        <option value="$PROJECT_DIR$/truffle-config.js" />
+        <option value="$PROJECT_DIR$/migrations/2_deploy_contract.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/components/ramPage.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/helpers/buildRamTable.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/utils/getWeb3.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/helpers/rainbow.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/components/PurchaserInventory.js" />
+        <option value="$PROJECT_DIR$/DappClient/.gitignore" />
+        <option value="$PROJECT_DIR$/DappClient/package.json" />
+        <option value="$PROJECT_DIR$/scripts/deploy.js" />
+        <option value="$PROJECT_DIR$/contracts/CryptoRam.sol" />
+        <option value="$PROJECT_DIR$/contracts/CryptoRamSale.sol" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/contracts/RamCoin.sol" />
+        <option value="$PROJECT_DIR$/contracts/RamSale.sol" />
+        <option value="$PROJECT_DIR$/test/CryptoRamTest.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/helpers/ramNames.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/components/ram.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/components/buySold.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/utils/initBlockchain.js" />
+        <option value="$PROJECT_DIR$/DappClient/src/App.js" />
+        <option value="$PROJECT_DIR$/hardhat.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/DappClient/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/DappClient/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="53" />
+    <option name="width" value="1350" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="DappClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="DappClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="DappClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoRam2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoRam2021" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts/contracts" />
+      <recent name="$PROJECT_DIR$/contracts" />
+      <recent name="$PROJECT_DIR$/artifacts/contracts/RamCoin.sol" />
+      <recent name="$PROJECT_DIR$/DappClient/src/utils" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components" />
+      <recent name="$PROJECT_DIR$/client/src/helpers" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37bd779d-4424-4c96-a79f-cac2f0123d66" name="Default" comment="" />
+      <created>1554479094597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554479094597</updated>
+      <workItem from="1554479096333" duration="12851000" />
+      <workItem from="1554593132740" duration="36087000" />
+      <workItem from="1555424164381" duration="110030000" />
+      <workItem from="1556565321756" duration="6379000" />
+      <workItem from="1556578206698" duration="3208000" />
+      <workItem from="1586111831770" duration="3587000" />
+      <workItem from="1586133604079" duration="5415000" />
+      <workItem from="1586278943223" duration="4219000" />
+      <workItem from="1586355487798" duration="597000" />
+      <workItem from="1586376314361" duration="561000" />
+      <workItem from="1586471768153" duration="11489000" />
+      <workItem from="1586539179785" duration="19186000" />
+      <workItem from="1586704315630" duration="15877000" />
+      <workItem from="1587149308463" duration="661000" />
+      <workItem from="1616347827980" duration="32594000" />
+      <workItem from="1616956240925" duration="267000" />
+      <workItem from="1616956852813" duration="514000" />
+      <workItem from="1616957509412" duration="956000" />
+      <workItem from="1617144755584" duration="4183000" />
+      <workItem from="1617203241635" duration="1745000" />
+      <workItem from="1619121658215" duration="2553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="272959000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="36" y="53" width="1350" height="789" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23407407" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32658958" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32658958" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23407407" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/DappClient/src/components/PurchaserInventory.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/CryptoRamTest.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/DappClient/truffle-config.js" />
+    <entry file="file://$PROJECT_DIR$/truffle-config.js" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/CryptoRam.json" />
+    <entry file="file://$PROJECT_DIR$/migrations/2_deploy_contract.js" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/RamCoin.json" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/IERC721Receiver.json" />
+    <entry file="file://$PROJECT_DIR$/DappClient/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Enumerable.sol" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Mintable.sol" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721MetadataMintable.sol" />
+    <entry file="file://$PROJECT_DIR$/DappClient/src/components/ramPage.js" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/CryptoRamSale.json" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/utils/getWeb3.js" />
+    <entry file="file://$PROJECT_DIR$/DappClient/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/contract_ABI/RamCoin.sol/RamCoin.json" />
+    <entry file="file://$PROJECT_DIR$/DappClient/src/contract_ABI/RamCoin.sol/RamCoin.dbg.json" />
+    <entry file="file://$PROJECT_DIR$/contracts/RamCoin.sol/RamCoin.json" />
+    <entry file="file://$PROJECT_DIR$/contracts/RamCoin.dbg.json" />
+    <entry file="file://$PROJECT_DIR$/artifacts/contracts/RamCoin.sol/RamCoin.dbg.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/IERC721.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Holder.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/IERC721Metadata.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/access/README.adoc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/access/AccessControl.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CryptoRamSale.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4155">
+          <caret line="277" column="48" selection-start-line="277" selection-start-column="48" selection-end-line="277" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artifacts/contracts/RamCoin.sol/RamCoin.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/RamCoin.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/RamSale.sol" />
+    <entry file="file://$PROJECT_DIR$/DappClient/src/components/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/helpers/ramPrice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/helpers/rainbow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/helpers/buildRamTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/helpers/ramNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="14" selection-start-line="193" selection-start-column="14" selection-end-line="193" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CryptoRamTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/components/ram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/components/PurchaserInventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/components/buySold.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/utils/initBlockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="72" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/deploy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CryptoRam.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DappClient/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hardhat.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
